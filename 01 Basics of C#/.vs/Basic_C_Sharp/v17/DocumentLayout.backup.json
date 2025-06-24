@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|c:\\users\\jhoju\\desktop\\jho-jhojung\\personal study\\2025\\basics of c sharp game engineering with unity\\01 basics of c#\\giftbox_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|solutionrelative:giftbox_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|c:\\users\\jhoju\\desktop\\jho-jhojung\\personal study\\2025\\basics of c sharp game engineering with unity\\01 basics of c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|c:\\users\\jhoju\\desktop\\jho-jhojung\\personal study\\2025\\basics of c sharp game engineering with unity\\01 basics of c#\\giftboxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|solutionrelative:giftboxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|c:\\users\\jhoju\\desktop\\jho-jhojung\\personal study\\2025\\basics of c sharp game engineering with unity\\01 basics of c#\\giftbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|solutionrelative:giftbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|c:\\users\\jhoju\\desktop\\jho-jhojung\\personal study\\2025\\basics of c sharp game engineering with unity\\01 basics of c#\\define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9220CFD5-30F4-48EC-B76B-0D065CCAB95F}|Basic_C_Sharp.csproj|solutionrelative:define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Define.cs",
+              "DocumentMoniker": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\Define.cs",
+              "RelativeDocumentMoniker": "Define.cs",
+              "ToolTip": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\Define.cs",
+              "RelativeToolTip": "Define.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:07:08.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiftBoxManager.cs",
+              "DocumentMoniker": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\GiftBoxManager.cs",
+              "RelativeDocumentMoniker": "GiftBoxManager.cs",
+              "ToolTip": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\GiftBoxManager.cs",
+              "RelativeToolTip": "GiftBoxManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:54:39.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiftBox.cs",
+              "DocumentMoniker": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\GiftBox.cs",
+              "RelativeDocumentMoniker": "GiftBox.cs",
+              "ToolTip": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\GiftBox.cs",
+              "RelativeToolTip": "GiftBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:51:32.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GiftBox_Example.cs",
-              "DocumentMoniker": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\GiftBox_Example.cs",
-              "RelativeDocumentMoniker": "GiftBox_Example.cs",
-              "ToolTip": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\GiftBox_Example.cs",
-              "RelativeToolTip": "GiftBox_Example.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jhoju\\Desktop\\Jho-Jhojung\\Personal Study\\2025\\Basics of C Sharp Game Engineering with Unity\\01 Basics of C#\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwEgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T15:16:21.151Z",
               "EditorCaption": ""
