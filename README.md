@@ -6,4 +6,9 @@ Since it's been a long time since I've used Unity, I'll be starting from the ver
 
 ### What I've Looked into So Far:
 - Basic C#
-  - Array, List, for, foreach, Data Types
+  - Variable, Method, Class(Basic)
+  - Array, List
+  - for, foreach, while
+  - Data Type, Call by Value, Call by Reference, GC
+  - String Formats, DateTime
+  - Nullable, Check Null, try catch, Property (get, set)
