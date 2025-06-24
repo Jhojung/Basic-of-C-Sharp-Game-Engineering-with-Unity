@@ -72,6 +72,8 @@ namespace ProgramNamespace
             SetMoneyOut(out int otherMoney);
             Console.WriteLine(otherMoney);
 
+
+
             /*
 
             // Array
@@ -130,6 +132,12 @@ namespace ProgramNamespace
         static void SetMoneyOut(out int money)
         {
             money = 30000;
+        }
+
+        static int SetMoneyInt(int money)
+        {
+            money = 30000;
+            return money;
         }
     }
 }
