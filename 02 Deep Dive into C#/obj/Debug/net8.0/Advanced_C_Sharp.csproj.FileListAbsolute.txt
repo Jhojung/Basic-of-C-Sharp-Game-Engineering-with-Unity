@@ -1,0 +1,15 @@
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\bin\Debug\net8.0\Advanced_C_Sharp.exe
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\bin\Debug\net8.0\Advanced_C_Sharp.deps.json
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\bin\Debug\net8.0\Advanced_C_Sharp.runtimeconfig.json
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\bin\Debug\net8.0\Advanced_C_Sharp.dll
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\bin\Debug\net8.0\Advanced_C_Sharp.pdb
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\Advanced_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\Advanced_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\Advanced_C_Sharp.AssemblyInfo.cs
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\Advanced_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\Advanced_C_Sharp.sourcelink.json
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\Advanced_C_Sharp.dll
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\refint\Advanced_C_Sharp.dll
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\Advanced_C_Sharp.pdb
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\Advanced_C_Sharp.genruntimeconfig.cache
+C:\Users\jhoju\Desktop\Jho-Jhojung\Personal Study\2025\Basics of C Sharp Game Engineering with Unity\02 Deep Dive into C#\obj\Debug\net8.0\ref\Advanced_C_Sharp.dll
